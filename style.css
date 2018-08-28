@@ -21,8 +21,9 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url("header.jpg") opacity: 0.6;
+  background-image: url("header.jpg") opacity: 0.3;
   background-size: cover;
+  background-color: #fff;
   height: 100%;
 }
 
