@@ -1,2 +1,0 @@
-# ottocerqueira.github.com
-Portfolio
