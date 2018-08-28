@@ -16,7 +16,7 @@ hr {
 }
 
 .faded {
-  color: rgba(255, 255, 255, 0.8); 
+  color: red; 
 }
 
 header.startup {
@@ -33,7 +33,6 @@ header.startup hr {
 
 header.startup h1 {
   font-size: 2rem; 
-  color: red;
 }
 
 .btn {
